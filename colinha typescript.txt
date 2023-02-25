@@ -1,0 +1,5 @@
+Colinha TypeScript
+
+npm i typescript -D - instala o TypeScript
+npm i ts-node -D - instala o ts-node em dev-dependencies do seu projeto
+npx tsc --init - cria o arquivo: tsconfig.json
